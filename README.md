@@ -44,6 +44,6 @@ The website uses the following technologies and libraries:
 
 ## Author
 
-Telesphore Uwabera is the author of this website.
+Telesphore Uwabera is the author of this page.
 
 For any inquiries or additional information, please contact Telesphore Uwabera at [telesphore@email.com](mailto:telesphore91073@email.com).
