@@ -1,4 +1,4 @@
-# BAG Website
+# BAG About Us Page
 
 **Author:** Telesphore Uwabera
 
@@ -41,10 +41,9 @@ The website uses the following technologies and libraries:
 - HTML
 - CSS (styles are imported from "styles.css")
 - JavaScript (script is imported from "script.js")
-- Bootstrap 4.5.2 (for styling)
 
 ## Author
 
 Telesphore Uwabera is the author of this website.
 
-For any inquiries or additional information, please contact Telesphore Uwabera at [telesphore@email.com](mailto:telesphore@email.com).
+For any inquiries or additional information, please contact Telesphore Uwabera at [telesphore@email.com](mailto:telesphore91073@email.com).
